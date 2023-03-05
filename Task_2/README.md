@@ -30,3 +30,5 @@ To execute with an alternative URL or channel, run as follows
 ```bash
 python3 dataframe.py --url <URL> --channel <channel>
 ```
+## Expected Outputs
+![Output](output.png)

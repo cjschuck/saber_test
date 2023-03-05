@@ -12,4 +12,5 @@ Requires:
 ```bash
 python3 -m unittest
 ```
-
+## Expected Outputs
+![Output](output.png)

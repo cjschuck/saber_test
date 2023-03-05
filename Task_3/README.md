@@ -30,3 +30,6 @@ Pass in query strings for the required time period, i.e
 **Note:** The API will only return data if your time period is 
 - Within the last 24 hours
 - The range is no greater than 1 hour
+
+## Expected Outputs
+![Output](output.png)
